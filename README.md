@@ -88,5 +88,3 @@ Once you have the development environment set up and the source code files ready
 Remember to adjust the command line arguments in the instructions according to your configuration and action files. Also, ensure that the configuration and action files are correctly formatted to match the expected input structure.
 
 With the software set up and running, you can manage supermarket chain activities, such as sales, deliveries, and employee reports. The SQLite database provides a reliable and efficient storage solution, while the Python modules handle the logic and data manipulation.
-
-.
